@@ -87,10 +87,10 @@
 #define KEYS_READ_PORT      PORTC
 #define KEYS_READ_DDR       DDRC
 #define KEYS_READ_PINS      PINC
-#define KEY_SELECT_PIN      3
-#define KEY_ABORT_PIN       2
-#define KEY_PREV_PIN        1
-#define KEY_NEXT_PIN        0
+#define KEY_SELECT_PIN      0
+#define KEY_ABORT_PIN       1
+#define KEY_PREV_PIN        3
+#define KEY_NEXT_PIN        2
 
 // debugging
 //#define ENABLE_SERIAL
