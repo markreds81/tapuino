@@ -8,7 +8,8 @@
 /********************************************************************************/
 
 #define LCD_USE_1602_LCD_MODULE
-#define LCD_I2C_ADDR        0x3F // I2C address for the LCD
+#define LCD_I2C_ADDR        0x3F
+#define TAPUINO_LANGUAGE_IT
 
 /********************************************************************************/
 // Language Definitions
